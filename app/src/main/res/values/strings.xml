@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">CryptoMarketApp</string>
+
+    <string name="nav_home">Home</string>
+    <string name="nav_market">Market</string>
+    <string name="nav_profile">Profile</string>
 </resources>
